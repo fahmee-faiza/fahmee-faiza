@@ -1,4 +1,11 @@
 ### Hi there 👋
+I’m Fahmee Faiza, a CS student and a developer making weird projects for the web.
+
+
+- 🔭 I’m currently working on developing my skills by developing some silly projects.
+- 🌱 I’m currently learning Javascript.
+- 📫 I am from Bangladesh.
+- 😄 Here are some of my short projects. 
 
 <!--
 **fahmee-faiza/fahmee-faiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
