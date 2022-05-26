@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Fahmee Faiza, a CS student and a developer making weird projects for the web.
+I’m Fahmee Faiza, a CS student, a SQA enthusiast and a developer making weird projects for the web.
 
 
 - 🔭 I’m currently working on developing my skills by developing some silly projects.
